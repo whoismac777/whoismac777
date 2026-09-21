@@ -25,7 +25,10 @@ Building polished, useful products with a strong emphasis on **clarity, usabilit
 
 ## Let’s connect
 
-Have an idea, a workflow to improve, or a website to build? Feel free to explore my repositories and reach out through [macworkflows.in](https://macworkflows.in).
+Have an idea, a workflow to improve, or a website to build? Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/marundeeswargp).
+
+- [LinkedIn](https://www.linkedin.com/in/marundeeswargp)
+- [Website](https://macworkflows.in)
 
 ---
 
