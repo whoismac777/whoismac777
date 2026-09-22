@@ -1,18 +1,19 @@
-# Hi, I’m whoismac777
+# Hi, I’m Marundeeswar
 
-I build practical web experiences and automation systems that help ideas move from concept to launch.
+I build **practical web experiences, automation systems, and product-focused digital solutions** that help ideas move from concept to launch.
 
-My work sits at the intersection of **web development, workflow automation, and product-focused design**. I enjoy turning rough requirements into clean, useful, and deployable digital products.
+My work combines clean interfaces, useful workflows, and reliable delivery. I enjoy turning rough requirements into polished, deployable products that are clear and easy to use.
 
-## What I work on
+## What I do
 
-- **Web experiences** — responsive landing pages, business websites, and interactive demos
-- **Automation** — streamlined workflows and integrations for modern businesses
-- **Product delivery** — fast prototyping, iteration, and deployment
+- **Web development** — responsive websites, landing pages, and interactive experiences
+- **Workflow automation** — streamlined processes and integrations for modern businesses
+- **Product delivery** — rapid prototyping, iteration, and deployment
+- **Experience design** — practical interfaces focused on clarity and usability
 
-## Selected projects
+## Featured work
 
-| Project | Description |
+| Project | What it is |
 | --- | --- |
 | [macworkflows.in](https://github.com/whoismac777/macworkflows.in) | Business website and automation-focused lead workflow |
 | [game-demo-website](https://github.com/whoismac777/game-demo-website) | Interactive web experience and game demo |
@@ -21,14 +22,14 @@ My work sits at the intersection of **web development, workflow automation, and 
 
 ## Current focus
 
-Building polished, useful products with a strong emphasis on **clarity, usability, and reliable delivery**.
+Building useful digital products with an emphasis on **clarity, usability, and dependable execution**.
 
-## Let’s connect
+I’m open to collaborating on websites, workflow improvements, automation ideas, and early-stage product experiences.
 
-Have an idea, a workflow to improve, or a website to build? Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/marundeeswargp).
+## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/marundeeswargp)
-- [Website](https://macworkflows.in)
+- **LinkedIn:** [linkedin.com/in/marundeeswargp](https://www.linkedin.com/in/marundeeswargp)
+- **Website:** [macworkflows.in](https://macworkflows.in)
 
 ---
 
